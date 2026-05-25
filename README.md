@@ -147,7 +147,7 @@ Semantic search systems
 
 Human Rights Intelligence demonstrates a practical implementation of an AI-powered legal assistant using Retrieval-Augmented Generation (RAG). The system combines semantic retrieval, vector databases, and large language models to provide intelligent responses for legal and human rights related queries.
 
-🙌 Author
+## 🙌 Author
 Kandela Vamshi
 
 B.Sc (Data Science) | AI & Data Science Enthusiast
