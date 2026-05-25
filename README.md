@@ -45,7 +45,7 @@ The system retrieves relevant legal context from documents and generates accurat
     Gemini LLM Generates Answer
             ↓
     Final Legal Response
-    🏗️ Project Structure
+## 🏗️ Project Structure
     Human_Rights_Intelligence/
     │
     ├── app.py                    # Streamlit application
