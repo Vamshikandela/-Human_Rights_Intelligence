@@ -88,15 +88,15 @@ GOOGLE_API_KEY=your_gemini_api_key
 
 Get API key from:
 
-Google AI Studio
-▶️ Run the Application
-streamlit run app.py
-📚 Recommended Legal Documents
-Human Rights Resources
-Universal Declaration of Human Rights (UDHR)
-United Nations Human Rights Office
-Indian Constitution Official Website
-National Human Rights Commission India
+        Google AI Studio
+        ▶️ Run the Application
+        streamlit run app.py
+        📚 Recommended Legal Documents
+        Human Rights Resources
+        Universal Declaration of Human Rights (UDHR)
+        United Nations Human Rights Office
+        Indian Constitution Official Website
+        National Human Rights Commission India
 🧪 Example Queries
 ✅ Constitutional Rights
 What is Article 14 of the Indian Constitution?
