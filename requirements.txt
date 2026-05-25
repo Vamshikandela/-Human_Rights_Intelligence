@@ -1,0 +1,15 @@
+openai
+langchain
+langchain_community
+faiss-cpu
+autogen
+pymupdf
+langchain_openai
+langchain_google_genai
+tiktoken
+python-dotenv
+streamlit
+vertexai
+google-genai
+sentence-transformers
+langchain-huggingface
